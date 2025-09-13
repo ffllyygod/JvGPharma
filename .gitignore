@@ -55,15 +55,7 @@ dist/
 *.njsproj
 *.sln
 *.sw?
-*.csv
-*.png
-*.xlsx
-*.xls
-*.jpeg
-*.docx
-*.pdf
-*.html
-*.xml
+
 
 
 # Optional: VSCode specific Python settings
